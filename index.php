@@ -35,8 +35,8 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 // Ganti http://localhost dengan url website anda
-define('SEJOLI_REGISTER_LICENSE_URL', 'http://localhost/sejoli/sejoli-license'); 			// URL untuk pendaftaran lisensi
-define('SEJOLI_VALIDATE_LICENSE_URL', 'http://localhost/sejoli/sejoli-validate-license');	// URL untuk pengecekan lisensi
+define('SEJOLI_REGISTER_LICENSE_URL', 'https://member.eltrive.com//sejoli/sejoli-license'); 			// URL untuk pendaftaran lisensi
+define('SEJOLI_VALIDATE_LICENSE_URL', 'https://member.eltrive.com//sejoli/sejoli-validate-license');	// URL untuk pengecekan lisensi
 
 
 // Class to check license
